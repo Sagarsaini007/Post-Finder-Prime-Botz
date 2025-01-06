@@ -1,6 +1,6 @@
 from client import Bot
 
-print("Prime Post Finder Bot Started 💥")
+print("Captain Jack Sparrow Started 💥")
 Bot().run()
 
 # Don't Remove Credit Tg - https://t.me/Prime_Botz
