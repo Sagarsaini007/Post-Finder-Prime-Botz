@@ -20,6 +20,6 @@ class Bot(Client):
         await super().start()        
         await User.start()
         Popen("python3 -m utils.delete", shell=True)       
-        print("⚡ Prime Post Finder Bot Started  By @Prime_Botz ⚡")   
+        print("⚡Captain Jack Sparrow Started  By @BhardwajBhavit ⚡")   
     async def stop(self, *args):
         await super().stop()
