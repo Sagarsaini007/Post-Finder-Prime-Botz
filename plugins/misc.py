@@ -15,17 +15,17 @@ async def start(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
             [
-                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/Post_Finder_Prime_Bot?startgroup=true')
+                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/Contra69_bot?startgroup=true')
             ],
             [
                 InlineKeyboardButton("ʜᴇʟᴘ", callback_data="misc_help"),
                 InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_about")
             ],
             [
-                InlineKeyboardButton("💬 ᴩʀɪᴍᴇ ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/Prime_Botz_Support")
+                InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/moviewalachat")
             ],
             [
-                InlineKeyboardButton("☆ 💫 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 💫 ☆", url="https://t.me/MR_PRIME_SUPREME")
+                InlineKeyboardButton("☆ 💫 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 💫 ☆", url="https://t.me/BhardwajBhavit")
             ]
         ])
     )
@@ -70,17 +70,17 @@ async def misc(bot, update):
                                  disable_web_page_preview=True,
 reply_markup=InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='http://t.me/Post_Finder_Prime_Bot?startgroup=true')
+        InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='http://t.me/Contra69_bot?startgroup=true')
     ],
     [
         InlineKeyboardButton("ʜᴇʟᴘ", callback_data="misc_help"),
         InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_about")
     ],
     [
-        InlineKeyboardButton("💬 ᴩʀɪᴍᴇ ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/Prime_Botz_Support")
+        InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/moviewalachat")
     ],
     [
-        InlineKeyboardButton("☆ 💫 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 💫 ☆", url="https://t.me/MR_PRIME_SUPREME")
+        InlineKeyboardButton("☆ 💫 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 💫 ☆", url="https://t.me/BhardwajBhavit")
     ]
 ]))
     elif data=="help":
