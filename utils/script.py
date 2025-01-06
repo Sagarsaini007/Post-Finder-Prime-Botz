@@ -1,10 +1,10 @@
 class script(object):
     START = """**Hello {} 🤟**
    
-<b>ɪ ᴀᴍ <a href="https://telegram.me/Post_Finder_Prime_Bot">ᴘʀɪᴍᴇ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ</a> ✯. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
+<b>ɪ ᴀᴍ <a href="https://telegram.me/Contra69_bot">Captain Jack Sparrow</a> ✯. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
 ɪ ᴡɪʟʟ ғɪʟᴛᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀɴᴅ sᴇɴᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡʜᴇɴ sᴏᴍᴇᴏɴᴇ sᴇᴀʀᴄʜ ɪᴛ.
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Prime_Botz">ᴘʀɪᴍᴇ ʙᴏᴛᴢ 🔥</a></blockquote></b>"""
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/BhardwajBhavit">Bhardwaj 🔥</a></blockquote></b>"""
 
     HELP = """<b>💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ
 
@@ -12,7 +12,7 @@ class script(object):
 
 ❂ ᴛʏᴘᴇ /verify ɪɴ ɢʀᴏᴜᴘ.
 
-❂  ᴡᴀɪᴛ ғᴏʀ ɪᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴏʀ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ᴀғᴛᴇʀ ʀᴇǫᴜᴇsᴛ <b><a href="https://telegram.me/Prime_Bots_Support_RoBot">ᴍʀ.ᴘʀɪᴍᴇ</a></b>
+❂  ᴡᴀɪᴛ ғᴏʀ ɪᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴏʀ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ᴀғᴛᴇʀ ʀᴇǫᴜᴇsᴛ <b><a href="https://telegram.me/BhardwajBhavit">Bhardwaj</a></b>
 
 ❂ ᴀꜰᴛᴇʀ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ꜱᴇɴᴅ /connect ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
 <b>⤨ ᴇxᴀᴍᴘʟᴇ -</b>
@@ -36,15 +36,15 @@ class script(object):
 ❂ ɢᴇᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟꜱ ʟɪꜱᴛ ᴡɪᴛʜ - /connections
 
 
-⏣►📃 𝗜ғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪ𝘀𝘀ᴜᴇ, ᴘʀᴏʙʟᴇᴍ ᴏʀ ɴᴇᴇᴅ 𝘀ᴜᴘᴘᴏʀᴛ ᴡʜɪʟᴇ ᴜ𝘀ɪɴɢ ᴛʜɪ𝘀 ʙᴏᴛ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴍᴇ𝘀𝘀ᴀɢᴇ ᴏᴜʀ 𝘀ᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ʙᴇ 𝘀ᴏʟᴠᴇᴅ ғʀᴏᴍ ᴛʜᴇʀᴇ.➠ <a href="https://t.me/Prime_Botz_Support">ᴘʀɪᴍᴇ ʙᴏᴛ'ꜱ sᴜᴘᴘᴏʀᴛ</a></b>"""
+⏣►📃 𝗜ғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪ𝘀𝘀ᴜᴇ, ᴘʀᴏʙʟᴇᴍ ᴏʀ ɴᴇᴇᴅ 𝘀ᴜᴘᴘᴏʀᴛ ᴡʜɪʟᴇ ᴜ𝘀ɪɴɢ ᴛʜɪ𝘀 ʙᴏᴛ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴍᴇ𝘀𝘀ᴀɢᴇ ᴏᴜʀ 𝘀ᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ʙᴇ 𝘀ᴏʟᴠᴇᴅ ғʀᴏᴍ ᴛʜᴇʀᴇ.➠ <a href="https://t.me/moviewalachat">sᴜᴘᴘᴏʀᴛ Group</a></b>"""
 
 
-    ABOUT = """<b>╭━━━━━━━❰ [𝙰𝙱𝙾𝚄𝚃](https://t.me/Prime_Botz) ❱━━━━━━━➣
+    ABOUT = """<b>╭━━━━━━━❰ [𝙰𝙱𝙾𝚄𝚃](https://t.me/moviewalachat) ❱━━━━━━━➣
 
 ┣ ✯ Mʏ Nᴀᴍᴇ:  {}
-┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Prime_Nayem'>ᴍʀ.ᴘʀɪᴍᴇ</a>
-┣ ✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Prime_Botz">ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
-┣ ✯ sᴜᴘᴘᴏʀᴛ : <a href="https://t.me/Prime_Botz_Support">ᴘʀɪᴍᴇ ʙᴏᴛ'ꜱ sᴜᴘᴘᴏʀᴛ</a>
+┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/BhardwajBhavit'>BHARDWAJ</a>
+┣ ✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Sagarsaini09">Sagar</a>
+┣ ✯ sᴜᴘᴘᴏʀᴛ : <a href="https://t.me/moviewalachat">ʙᴏᴛ sᴜᴘᴘᴏʀᴛ</a>
 ┣ ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ┣ ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a></b>"""
 
@@ -52,7 +52,7 @@ class script(object):
 
 👥 Users: {}
 🧿 Groups: {}
-✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Prime_Botz">ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a></b>"""
+✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Sagarsaini09">Sagar</a></b>"""
 
     BROADCAST = """<u>{}</u>
 
@@ -60,7 +60,7 @@ Total: `{}`
 Remaining: `{}`
 Success: `{}`
 Failed: `{}`
-✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Prime_Botz">ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>"""
+✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Sagarsaini09">Sagar</a>"""
 
     
 
