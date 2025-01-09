@@ -7,11 +7,21 @@ from utils import *
 from pyrogram import Client, filters 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
 
+from pyrogram import Client, filters
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+
 @Client.on_message(filters.command("start") & ~filters.channel)
 async def start(bot, message):
     await add_user(message.from_user.id, message.from_user.first_name)
-    await message.reply(
-        text=script.START.format(message.from_user.mention),
+    
+    # Path to your image file
+    image_path = "https://envs.sh/9LI.jpg"  # Change this to your image path
+
+    # Send the image and the reply message
+    await bot.send_photo(
+        chat_id=message.chat.id,
+        photo=image_path,
+        caption=script.START.format(message.from_user.mention),
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
             [
